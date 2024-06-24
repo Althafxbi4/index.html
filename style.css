@@ -1,0 +1,73 @@
+div {
+    background-color:blue;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+  }
+  button {
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  p {text-transform: capitalize
+    ;
+font-size: 20px;}
+font: 1em sans-serif;
+font-weight: bold;
+color: red;}
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color:palevioletred;
+  color:black;
+  font-weight: bold;
+}
+
+.fancy {
+  background-color:yellow;
+  color:black;
+}
+.surpriced {
+    height: auto;
+    width;100px;
+}
+.sadness {
+    height: auto;
+    width: 200px;
+    
+}
+.text{
+    background-color:palevioletred;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight:bold;
+}
+.Confirm.button {
+    background: green;
+    color: white;
+    font-weight: bold;
+font-size: 20px;}
+
+.Cancel.inverted {
+    background:red;
+    color: white;
+    font-weight: bold;
+font-size: 20px;}    
+.txt.color {
+  background-color: aliceblue;
+  color: rebeccapurple;
+  font-size: x-large;
+}
+.txt.colour{
+  background-color: red;
+  text-transform: capitalize;
+  font-style: normal;
+}
